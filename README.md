@@ -1,5 +1,4 @@
 # Data-Visualization
-# KEY:  
       project2: bar, line, and bar-line charts
       project3: scatterplot matrix
       project4: bar and line charts, scatterplot and scatterplot matrix
